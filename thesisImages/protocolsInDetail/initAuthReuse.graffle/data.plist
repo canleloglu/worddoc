@@ -53,6 +53,87 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
+			<string>{{220.99741358757021, 396.14274311065674}, {117.00514988899232, 39}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>HFlip</key>
+			<string>YES</string>
+			<key>ID</key>
+			<integer>240</integer>
+			<key>Magnets</key>
+			<array>
+				<string>{1, 0.5}</string>
+				<string>{1, -0.5}</string>
+				<string>{-1, 0.5}</string>
+				<string>{-1, -0.5}</string>
+				<string>{0.5, 1}</string>
+				<string>{-0.5, 1}</string>
+				<string>{0.5, -1}</string>
+				<string>{-0.5, -1}</string>
+			</array>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict/>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs22 \cf0 RP' = E\sub K-GW-AP\nosupersub (RP)}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{4, 224}, {83, 52}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>TimesNewRomanPSMT</string>
+				<key>Size</key>
+				<real>11</real>
+			</dict>
+			<key>HFlip</key>
+			<string>YES</string>
+			<key>ID</key>
+			<integer>239</integer>
+			<key>Magnets</key>
+			<array>
+				<string>{1, 0.5}</string>
+				<string>{1, -0.5}</string>
+				<string>{-1, 0.5}</string>
+				<string>{-1, -0.5}</string>
+				<string>{0.5, 1}</string>
+				<string>{-0.5, 1}</string>
+				<string>{0.5, -1}</string>
+				<string>{-0.5, -1}</string>
+			</array>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict/>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs22 \cf0 Generate Anonymized Subhash Chain}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
 			<string>{{2.3973998069764093, 138.00000619888306}, {221.60260009765625, 44}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
@@ -61,7 +142,7 @@
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>HFlip</key>
 			<string>YES</string>
@@ -87,22 +168,22 @@
 				<key>Align</key>
 				<integer>3</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\ftech\fcharset77 Symbol;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\ftech\fcharset77 Symbol;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qj
 
-\f0\fs26 \cf0 CR=\
+\f0\fs22 \cf0 CR=\
 E\sub PU-TTP\nosupersub (Nonce 
-\f1 \uc0\u8853  
-\f0 SN || Nonce || H\sub i\nosupersub )}</string>
+\f1 \uc0\u8853 
+\f0  SN || Nonce || H\sub i\nosupersub )}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{71.150009155273438, 602}, {182.69999694824213, 57}}</string>
+			<string>{{91.574996948242188, 476}, {141.84999084472656, 39}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -110,7 +191,7 @@ E\sub PU-TTP\nosupersub (Nonce
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>HFlip</key>
 			<string>YES</string>
@@ -134,12 +215,12 @@ E\sub PU-TTP\nosupersub (Nonce
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs26 \cf0 D\sub K-GW-AP\nosupersub (D\sub PU-TTP\nosupersub (RP'))\
+\f0\fs22 \cf0 D\sub K-GW-AP\nosupersub (D\sub PU-TTP\nosupersub (RP'))\
 Store Alias and H\sub i}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -147,7 +228,7 @@ Store Alias and H\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{209.61489868164065, 499.55351161956787}, {135.94744868278502, 66.928619384765625}}</string>
+			<string>{{241.80513000488281, 475.99998569488525}, {110.90000000000001, 39.000015258789062}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -155,7 +236,7 @@ Store Alias and H\sub i}</string>
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>HFlip</key>
 			<string>YES</string>
@@ -179,21 +260,20 @@ Store Alias and H\sub i}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs26 \cf0 D\sub PU-TTP\nosupersub (RP)\
-Store Alias and H\sub i\nosupersub \
-RP' = E\sub K-GW-AP\nosupersub (RP)}</string>
+\f0\fs22 \cf0 D\sub PU-TTP\nosupersub (RP)\
+Store Alias and H\sub i}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{335.00000188480618, 409.37494993209839}, {118.58510401118986, 51.214302062988281}}</string>
+			<string>{{345.00000188480612, 396.14273405075073}, {99.400001525878906, 39}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -201,7 +281,7 @@ RP' = E\sub K-GW-AP\nosupersub (RP)}</string>
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>HFlip</key>
 			<string>YES</string>
@@ -225,12 +305,12 @@ RP' = E\sub K-GW-AP\nosupersub (RP)}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs26 \cf0 D\sub PU-TTP\nosupersub (RP)\
+\f0\fs22 \cf0 D\sub PU-TTP\nosupersub (RP)\
 Store Alias and H\sub i}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -238,7 +318,7 @@ Store Alias and H\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{333.39739379882803, 233.5}, {221.60260009765625, 136.5}}</string>
+			<string>{{333.39739379882803, 233.5}, {221.60260009765625, 115.5}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -246,7 +326,7 @@ Store Alias and H\sub i}</string>
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>HFlip</key>
 			<string>YES</string>
@@ -272,18 +352,19 @@ Store Alias and H\sub i}</string>
 				<key>Align</key>
 				<integer>2</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\ftech\fcharset77 Symbol;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\ftech\fcharset77 Symbol;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qr
 
-\f0\fs26 \cf0 D\sub PR-TTP\nosupersub (CR)\
+\f0\fs22 \cf0 D\sub PR-TTP\nosupersub (CR)\
 SN = Nonce 
 \f1 \uc0\u8853 
 \f0  SN 
 \f1 \uc0\u8853 
 \f0  Nonce\
 Check SN and H\sub i\nosupersub  relevancy\
+Generate Anonymized Subhash Chain\
 Calculate Alias = h (Nonce 
 \f1 \uc0\u8853 
 \f0  SN)\
@@ -482,7 +563,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{209.61489293705228, 572.53563602659131}, {19, 16}}</string>
+			<string>{{211.11489293705228, 444.0713930914107}, {16, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -494,7 +575,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>205</integer>
@@ -536,12 +617,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 RP'}</string>
+\f0\fs22 \cf0 RP'}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -558,14 +639,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>204</integer>
 			<key>Points</key>
 			<array>
-				<string>{270.69999694824219, 591.96424293518066}</string>
-				<string>{171.29999542236328, 590.96424293518066}</string>
+				<string>{270.69999694824219, 462}</string>
+				<string>{171.29999542236328, 461}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -586,7 +667,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{328.11490056644681, 470.57138260099322}, {16, 16}}</string>
+			<string>{{329.11490056644681, 366.07137211057574}, {14, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -598,7 +679,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>202</integer>
@@ -640,12 +721,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 RP}</string>
+\f0\fs22 \cf0 RP}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -662,14 +743,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>201</integer>
 			<key>Points</key>
 			<array>
-				<string>{387.70000457763672, 489.99998950958252}</string>
-				<string>{288.30000305175781, 488.99998950958252}</string>
+				<string>{387.70000457763672, 383.99997901916504}</string>
+				<string>{288.30000305175781, 382.99997901916504}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -690,7 +771,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{444.01487920414212, 378.96421249601275}, {16, 16}}</string>
+			<string>{{445.81489751468899, 358.07139023038775}, {14, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -702,7 +783,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>200</integer>
@@ -744,12 +825,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 RP}</string>
+\f0\fs22 \cf0 RP}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -766,14 +847,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>199</integer>
 			<key>Points</key>
 			<array>
-				<string>{503.59998321533197, 398.39281940460205}</string>
-				<string>{404.19998168945312, 397.39281940460205}</string>
+				<string>{504.40000152587885, 375.99999713897705}</string>
+				<string>{405, 374.99999713897705}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -794,7 +875,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{436.79486079216002, 205.09090995788574}, {45, 16}}</string>
+			<string>{{440.29486079216002, 206.59090995788574}, {38, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -806,7 +887,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>195</integer>
@@ -848,12 +929,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 Forward}</string>
+\f0\fs22 \cf0 Forward}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -870,7 +951,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>194</integer>
@@ -898,7 +979,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.49485011100768, 202.09090995788574}, {45, 16}}</string>
+			<string>{{320.99485011100768, 203.59090995788574}, {38, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -910,7 +991,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>193</integer>
@@ -952,12 +1033,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 Forward}</string>
+\f0\fs22 \cf0 Forward}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -974,7 +1055,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>192</integer>
@@ -1002,7 +1083,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{200.49485011100768, 197.09090995788574}, {45, 16}}</string>
+			<string>{{203.99485011100768, 198.59090995788574}, {38, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1014,7 +1095,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>189</integer>
@@ -1056,12 +1137,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 Forward}</string>
+\f0\fs22 \cf0 Forward}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -1078,7 +1159,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>188</integer>
@@ -1106,7 +1187,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{94.694847059249867, 193.09090995788574}, {18, 16}}</string>
+			<string>{{96.194847059249867, 194.59090995788574}, {15, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1118,7 +1199,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>31</integer>
@@ -1160,12 +1241,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720
 
-\f0\fs26 \cf0 CR}</string>
+\f0\fs22 \cf0 CR}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -1182,7 +1263,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				<key>Font</key>
 				<string>TimesNewRomanPSMT</string>
 				<key>Size</key>
-				<real>13</real>
+				<real>11</real>
 			</dict>
 			<key>ID</key>
 			<integer>6</integer>
@@ -1223,14 +1304,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>44</integer>
 					<key>Points</key>
 					<array>
-						<string>{513.5, 125.66337523918763}</string>
-						<string>{513.5, 663}</string>
+						<string>{513.5, 117.39048472493491}</string>
+						<string>{513.5, 534.99999999999955}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -1258,7 +1339,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{472, 88.000000000000085}, {83, 37.163375224416498}}</string>
+					<string>{{472, 88.000000000000114}, {83, 28.890484739676825}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -1266,7 +1347,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>45</integer>
@@ -1277,12 +1358,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs26 \cf0 \ul \ulc0 TTP}</string>
+\f0\fs22 \cf0 \ul \ulc0 TTP}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1306,14 +1387,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>41</integer>
 					<key>Points</key>
 					<array>
-						<string>{396.50000000000006, 123.59874327826122}</string>
-						<string>{396.50000000000006, 663.00000000000011}</string>
+						<string>{396.50000000000006, 115.78545781400246}</string>
+						<string>{396.50000000000006, 534.99999999999977}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -1341,7 +1422,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{355, 87.999999999999943}, {83, 35.098743267504474}}</string>
+					<string>{{355, 87.999999999999915}, {83, 27.28545780969478}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -1349,7 +1430,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>42</integer>
@@ -1360,12 +1441,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs26 \cf0 \ul \ulc0 Operator}</string>
+\f0\fs22 \cf0 \ul \ulc0 Operator}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1389,14 +1470,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>38</integer>
 					<key>Points</key>
 					<array>
-						<string>{279.50000000000006, 124.63105923040432}</string>
-						<string>{279.50000000000006, 663.00000000000011}</string>
+						<string>{279.50000000000006, 116.58797128769916}</string>
+						<string>{279.50000000000006, 534.99999999999955}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -1424,7 +1505,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{238, 87.999999999999929}, {83, 36.131059245960522}}</string>
+					<string>{{238, 87.999999999999787}, {83, 28.087971274685824}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -1432,7 +1513,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>39</integer>
@@ -1443,12 +1524,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs26 \cf0 \ul \ulc0 Gateway}</string>
+\f0\fs22 \cf0 \ul \ulc0 Gateway}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1472,14 +1553,14 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>35</integer>
 					<key>Points</key>
 					<array>
-						<string>{162.50000000000006, 124.63105923040432}</string>
-						<string>{162.50000000000006, 663.00000000000011}</string>
+						<string>{162.50000000000006, 116.58797128769916}</string>
+						<string>{162.50000000000006, 534.99999999999955}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -1507,7 +1588,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{121, 87.999999999999929}, {83, 36.131059245960522}}</string>
+					<string>{{121, 87.999999999999787}, {83, 28.087971274685824}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -1515,7 +1596,7 @@ RP = E\sub PR-TTP\nosupersub (Alias
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>36</integer>
@@ -1526,12 +1607,12 @@ RP = E\sub PR-TTP\nosupersub (Alias
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs26 \cf0 \ul \ulc0 Mesh\
+\f0\fs22 \cf0 \ul \ulc0 Mesh\
 Backbone}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
@@ -1556,14 +1637,14 @@ Backbone}</string>
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>33</integer>
 					<key>Points</key>
 					<array>
-						<string>{45.500000000000043, 124.63105923040432}</string>
-						<string>{45.500000000000043, 663.00000000000011}</string>
+						<string>{45.500000000000043, 116.58797128769916}</string>
+						<string>{45.500000000000043, 534.99999999999955}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -1591,7 +1672,7 @@ Backbone}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{4, 87.999999999999929}, {83, 36.131059245960522}}</string>
+					<string>{{4, 87.999999999999787}, {83, 28.087971274685824}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -1599,7 +1680,7 @@ Backbone}</string>
 						<key>Font</key>
 						<string>TimesNewRomanPSMT</string>
 						<key>Size</key>
-						<real>13</real>
+						<real>11</real>
 					</dict>
 					<key>ID</key>
 					<integer>3</integer>
@@ -1610,12 +1691,12 @@ Backbone}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs26 \cf0 \ul \ulc0 Client}</string>
+\f0\fs22 \cf0 \ul \ulc0 Client}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1688,9 +1769,9 @@ Backbone}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-01-10 21:43:34 +0000</string>
+	<string>2013-01-25 10:15:22 +0000</string>
 	<key>Modifier</key>
-	<string>Serhat Can Leloglu</string>
+	<string>canleloglu</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>Orientation</key>
@@ -1769,7 +1850,7 @@ Backbone}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{74, 4}, {834, 774}}</string>
+		<string>{{716, 163}, {834, 774}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -1783,7 +1864,7 @@ Backbone}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-70, 28}, {699, 635}}</string>
+		<string>{{-63, 0}, {685, 635}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
