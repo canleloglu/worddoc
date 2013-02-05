@@ -137,8 +137,8 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qj
 
 \f0\fs22 \cf0 DR=\
-E\sub PU-TTP\nosupersub (Nonce
-\f1 \uc0\u8853 
+E\sub PU-TTP\nosupersub (Nonce 
+\f1 \uc0\u8853  
 \f0 SN || Nonce || H\sub i\nosupersub )}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -1694,7 +1694,7 @@ Backbone}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-01-25 11:25:49 +0000</string>
+	<string>2013-02-05 13:02:51 +0000</string>
 	<key>Modifier</key>
 	<string>canleloglu</string>
 	<key>NotesVisible</key>
