@@ -369,9 +369,7 @@ Calculate Alias = h (Nonce
 \f1 \uc0\u8853 
 \f0  SN)\
 Store Alias and H\sub i\nosupersub \
-RP = E\sub PR-TTP\nosupersub (Alias 
-\f1 \uc0\u8853 
-\f0  H\sub i\nosupersub )}</string>
+RP = E\sub PR-TTP\nosupersub (Alias || H\sub i\nosupersub )}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -1769,7 +1767,7 @@ Backbone}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-01-25 10:15:22 +0000</string>
+	<string>2013-02-07 08:29:28 +0000</string>
 	<key>Modifier</key>
 	<string>canleloglu</string>
 	<key>NotesVisible</key>
