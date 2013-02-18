@@ -53,7 +53,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{0, 224}, {141.125, 63.7045}}</string>
+			<string>{{0, 224}, {151.4, 63.7045}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -91,7 +91,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
 \f0\fs22 \cf0 Generate Anonymized Subhash Chain\
-\{H'\sub i\nosupersub , H'\sub i+1\nosupersub , ... , H'\sub i+LASC\nosupersub \}}</string>
+\{H'\sub i\nosupersub , H'\sub i+1\nosupersub , ... , H'\sub i+LASC-1\nosupersub \}}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -319,7 +319,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{333.397, 233.5}, {221.603, 115.5}}</string>
+			<string>{{333.397, 233.5}, {221.603, 122.5}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -365,7 +365,8 @@ SN = Nonce
 \f1 \uc0\u8853 
 \f0  Nonce\
 Check SN and H\sub i\nosupersub  relevancy\
-Generate Anonymized Subhash Chain\
+Generate Anonymized Subhash Chain (ASC)\
+ASC = \{H'\sub i\nosupersub , H'\sub i+1\nosupersub , ... , H'\sub i+LASC-1\nosupersub \}\
 Calculate Alias = h (Nonce 
 \f1 \uc0\u8853 
 \f0  SN)\
@@ -1309,7 +1310,7 @@ RP = E\sub PR-TTP\nosupersub (Alias || H'\sub i\nosupersub )}</string>
 					<integer>44</integer>
 					<key>Points</key>
 					<array>
-						<string>{513.5, 117.39}</string>
+						<string>{513.5, 117.391}</string>
 						<string>{513.5, 535}</string>
 					</array>
 					<key>Style</key>
@@ -1768,7 +1769,7 @@ Backbone}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-02-17 22:47:26 +0200</string>
+	<string>2013-02-18 19:57:46 +0200</string>
 	<key>Modifier</key>
 	<string>Can Leloglu</string>
 	<key>NotesVisible</key>

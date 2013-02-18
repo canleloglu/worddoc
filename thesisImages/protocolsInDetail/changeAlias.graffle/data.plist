@@ -53,7 +53,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{218.137, 549.39}, {125.371, 39}}</string>
+			<string>{{218.137, 560.799}, {125.371, 39}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -135,14 +135,15 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc\pardirnatural
 
 \f0\fs22 \cf0 Generate Anonymized Subhash Chain\
-\{H'\sub i\nosupersub , H'\sub i+1\nosupersub , ... , H'\sub i+LASC\nosupersub \}}</string>
+\{H'\sub i\nosupersub , H'\sub i+1\nosupersub , ... , \
+H'\sub i+LASC-1\nosupersub \}}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{91.9375, 627.818}, {141.125, 45}}</string>
+			<string>{{91.9375, 639.227}, {141.125, 45}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -187,7 +188,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{212.508, 595.977}, {16, 13}}</string>
+			<string>{{212.508, 607.386}, {16, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -269,8 +270,8 @@ Store Alias and H'\sub i}</string>
 			<integer>236</integer>
 			<key>Points</key>
 			<array>
-				<string>{270.975, 613.173}</string>
-				<string>{174.025, 613.582}</string>
+				<string>{270.975, 624.582}</string>
+				<string>{174.025, 624.991}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -291,7 +292,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{239.323, 627.818}, {83, 57.7832}}</string>
+			<string>{{239.323, 639.227}, {83, 57.7832}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -336,7 +337,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{329.008, 520.952}, {14, 13}}</string>
+			<string>{{329.008, 532.362}, {14, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -418,8 +419,8 @@ Store Alias and H'\sub i}</string>
 			<integer>233</integer>
 			<key>Points</key>
 			<array>
-				<string>{386.475, 538.149}</string>
-				<string>{289.525, 538.558}</string>
+				<string>{386.475, 549.558}</string>
+				<string>{289.525, 549.967}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -440,7 +441,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{350.254, 549.39}, {92.4917, 57.7832}}</string>
+			<string>{{350.254, 560.799}, {92.4917, 57.7832}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -485,7 +486,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{446.008, 509.395}, {14, 13}}</string>
+			<string>{{446.008, 520.804}, {14, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -567,8 +568,8 @@ Store Alias and H'\sub i}</string>
 			<integer>225</integer>
 			<key>Points</key>
 			<array>
-				<string>{503.475, 526.591}</string>
-				<string>{406.525, 527}</string>
+				<string>{503.475, 538}</string>
+				<string>{406.525, 538.409}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -589,7 +590,7 @@ Store Alias and H'\sub i}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{374, 383.198}, {181, 122}}</string>
+			<string>{{344, 383.198}, {211, 136.802}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -638,7 +639,8 @@ Calculate Alias = h(Nonce
 \f1 \uc0\u8853 
 \f0  SN)\
 Check SN and H\sub i\nosupersub  relevancy\
-Generate Anonymized Subhash Chain\
+Generate Anonymized Subhash Chain (ASC)\
+ASC = \{H'\sub i\nosupersub , H'\sub i+1\nosupersub , ... , H'\sub i+LASC-1\nosupersub \}\
 Store Alias and H'\sub i\nosupersub  \
 Check the uniqueness of the Alias\
 RP = E\sub PR-TTP\nosupersub (Alias || H'\sub i\nosupersub )   }</string>
@@ -1968,7 +1970,7 @@ Backbone}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-02-17 22:48:05 +0200</string>
+	<string>2013-02-18 19:57:27 +0200</string>
 	<key>Modifier</key>
 	<string>Can Leloglu</string>
 	<key>NotesVisible</key>
